@@ -25,181 +25,10 @@ description: >-
   for new craftable items.
 author:
   - Noctifer
-license: ALL-RIGHTS-RESERVED
+license: Unlicense
 homepage: >-
   https://github.com/Noctifer-de-Mortem/nocts_cata_mod/tree/master/nocts_cata_mod_BN
-version: 2026.8.2-807ff9f
-previous_releases:
-  - version: 0.0.0
-    source:
-      type: github_archive
-      url: >-
-        https://github.com/Noctifer-de-Mortem/nocts_cata_mod/archive/refs/heads/master.zip
-      commit_sha: 640477a78597002ffbaa2c9bf52bf3a11edd8c59
-      extract_path: nocts_cata_mod_BN
-    released_at: "2026-05-16T09:24:12.316Z"
-  - version: 2026.6.8-94b18c2
-    source:
-      type: github_archive
-      url: >-
-        https://github.com/Noctifer-de-Mortem/nocts_cata_mod/archive/refs/heads/master.zip
-      commit_sha: 94b18c22b5770c1ab79034c16bceb722dbeeaac1
-      extract_path: nocts_cata_mod_BN
-    released_at: "2026-06-08T03:03:01.978Z"
-  - version: 2026.6.9-81d5d98
-    source:
-      type: github_archive
-      url: >-
-        https://github.com/Noctifer-de-Mortem/nocts_cata_mod/archive/refs/heads/master.zip
-      commit_sha: 81d5d98f1cf97f2a442343914a2c7a35655ffee6
-      extract_path: nocts_cata_mod_BN
-    released_at: "2026-06-09T02:39:53.408Z"
-  - version: 2026.6.10-81d5d98
-    source:
-      type: github_archive
-      url: >-
-        https://github.com/Noctifer-de-Mortem/nocts_cata_mod/archive/refs/heads/master.zip
-      commit_sha: 81d5d98f1cf97f2a442343914a2c7a35655ffee6
-      extract_path: nocts_cata_mod_BN
-    released_at: "2026-06-10T02:55:53.596Z"
-  - version: 2026.6.11-81d5d98
-    source:
-      type: github_archive
-      url: >-
-        https://github.com/Noctifer-de-Mortem/nocts_cata_mod/archive/refs/heads/master.zip
-      commit_sha: 81d5d98f1cf97f2a442343914a2c7a35655ffee6
-      extract_path: nocts_cata_mod_BN
-    released_at: "2026-06-11T02:58:44.345Z"
-  - version: 2026.6.12-81d5d98
-    source:
-      type: github_archive
-      url: >-
-        https://github.com/Noctifer-de-Mortem/nocts_cata_mod/archive/refs/heads/master.zip
-      commit_sha: 81d5d98f1cf97f2a442343914a2c7a35655ffee6
-      extract_path: nocts_cata_mod_BN
-    released_at: "2026-06-12T03:01:44.842Z"
-  - version: 2026.6.13-f9c9b0e
-    source:
-      type: github_archive
-      url: >-
-        https://github.com/Noctifer-de-Mortem/nocts_cata_mod/archive/refs/heads/master.zip
-      commit_sha: f9c9b0e22c7a7e8b26e506017eed71192aede2f0
-      extract_path: nocts_cata_mod_BN
-    released_at: "2026-06-13T02:49:03.662Z"
-  - version: 2026.6.14-25c6328
-    source:
-      type: github_archive
-      url: >-
-        https://github.com/Noctifer-de-Mortem/nocts_cata_mod/archive/refs/heads/master.zip
-      commit_sha: 25c63285e2de3407513f04b2ad6ec589bf8fb39f
-      extract_path: nocts_cata_mod_BN
-    released_at: "2026-06-14T02:59:31.722Z"
-  - version: 2026.6.15-25c6328
-    source:
-      type: github_archive
-      url: >-
-        https://github.com/Noctifer-de-Mortem/nocts_cata_mod/archive/refs/heads/master.zip
-      commit_sha: 25c63285e2de3407513f04b2ad6ec589bf8fb39f
-      extract_path: nocts_cata_mod_BN
-    released_at: "2026-06-15T03:32:48.184Z"
-  - version: 2026.6.16-b22291f
-    source:
-      type: github_archive
-      url: >-
-        https://github.com/Noctifer-de-Mortem/nocts_cata_mod/archive/refs/heads/master.zip
-      commit_sha: b22291ffb57d5f7ee935ed3c214a0931b98d14e6
-      extract_path: nocts_cata_mod_BN
-    released_at: "2026-06-16T03:34:48.067Z"
-  - version: 2026.6.17-5b3e539
-    source:
-      type: github_archive
-      url: >-
-        https://github.com/Noctifer-de-Mortem/nocts_cata_mod/archive/refs/heads/master.zip
-      commit_sha: 5b3e539dcbee962526c11aab5bc6177b10a4bf5a
-      extract_path: nocts_cata_mod_BN
-    released_at: "2026-06-17T03:26:47.033Z"
-  - version: 2026.6.18-5b3e539
-    source:
-      type: github_archive
-      url: >-
-        https://github.com/Noctifer-de-Mortem/nocts_cata_mod/archive/refs/heads/master.zip
-      commit_sha: 5b3e539dcbee962526c11aab5bc6177b10a4bf5a
-      extract_path: nocts_cata_mod_BN
-    released_at: "2026-06-18T03:01:47.797Z"
-  - version: 2026.6.19-5b3e539
-    source:
-      type: github_archive
-      url: >-
-        https://github.com/Noctifer-de-Mortem/nocts_cata_mod/archive/refs/heads/master.zip
-      commit_sha: 5b3e539dcbee962526c11aab5bc6177b10a4bf5a
-      extract_path: nocts_cata_mod_BN
-    released_at: "2026-06-19T03:56:14.881Z"
-  - version: 2026.6.20-5b3e539
-    source:
-      type: github_archive
-      url: >-
-        https://github.com/Noctifer-de-Mortem/nocts_cata_mod/archive/refs/heads/master.zip
-      commit_sha: 5b3e539dcbee962526c11aab5bc6177b10a4bf5a
-      extract_path: nocts_cata_mod_BN
-    released_at: "2026-06-20T02:49:06.337Z"
-  - version: 2026.7.2-25dad01
-    source:
-      type: github_archive
-      url: >-
-        https://github.com/Noctifer-de-Mortem/nocts_cata_mod/archive/refs/heads/master.zip
-      commit_sha: 25dad015d2b7a42aa102411a2da20da78cb3c86f
-      extract_path: nocts_cata_mod_BN
-    released_at: "2026-07-02T02:41:13.434Z"
-  - version: 2026.7.3-d79488f
-    source:
-      type: github_archive
-      url: >-
-        https://github.com/Noctifer-de-Mortem/nocts_cata_mod/archive/refs/heads/master.zip
-      commit_sha: d79488fccea797f9f88c44f03ae65109d6331571
-      extract_path: nocts_cata_mod_BN
-    released_at: "2026-07-03T02:23:23.797Z"
-  - version: 2026.7.5-e6f2cb9
-    source:
-      type: github_archive
-      url: >-
-        https://github.com/Noctifer-de-Mortem/nocts_cata_mod/archive/refs/heads/master.zip
-      commit_sha: e6f2cb9f914afda86f419d860d8aff03dabce25a
-      extract_path: nocts_cata_mod_BN
-    released_at: "2026-07-05T02:30:44.663Z"
-  - version: 2026.7.11-6bea739
-    source:
-      type: github_archive
-      url: >-
-        https://github.com/Noctifer-de-Mortem/nocts_cata_mod/archive/refs/heads/master.zip
-      commit_sha: 6bea7390c26757bead04b50931128026aa66e87f
-      extract_path: nocts_cata_mod_BN
-    released_at: "2026-07-11T02:02:32.626Z"
-  - version: 2026.7.19-90d09ee
-    source:
-      type: github_archive
-      url: >-
-        https://github.com/Noctifer-de-Mortem/nocts_cata_mod/archive/refs/heads/master.zip
-      commit_sha: 90d09ee9182e4a1391d217ab9b1c9f5131caeddb
-      extract_path: nocts_cata_mod_BN
-    released_at: "2026-07-19T02:04:21.819Z"
-  - version: 2026.7.26-1af32e6
-    source:
-      type: github_archive
-      url: >-
-        https://github.com/Noctifer-de-Mortem/nocts_cata_mod/archive/refs/heads/master.zip
-      commit_sha: 1af32e68b8f8981ee368f5891bfcd8a29830c006
-      extract_path: nocts_cata_mod_BN
-    released_at: "2026-07-26T02:08:18.868Z"
-  - version: 2026.8.1-f7cd92f
-    source:
-      type: github_archive
-      url: >-
-        https://github.com/Noctifer-de-Mortem/nocts_cata_mod/archive/refs/heads/master.zip
-      commit_sha: f7cd92f62903bc2d57b9c9a3cbefcfe2cb038002
-      extract_path: nocts_cata_mod_BN
-    released_at: "2026-08-01T02:10:27.968Z"
-dependencies:
-  bn: ">=0.9.1"
+version: 0.0.0
 source:
   type: github_archive
   url: >-
@@ -208,10 +37,11 @@ source:
   extract_path: nocts_cata_mod_BN
 categories:
   - content
+dependencies:
+  bn: ">=0.9.1"
 modinfo_url: >-
   https://raw.githubusercontent.com/Noctifer-de-Mortem/nocts_cata_mod/640477a78597002ffbaa2c9bf52bf3a11edd8c59/nocts_cata_mod_BN/modinfo.json
 uses_lua: false
 autoupdate:
   type: commit
   branch: master
-last_updated: "2026-08-02T02:07:21.520Z"
