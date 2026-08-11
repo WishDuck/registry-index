@@ -103,33 +103,33 @@ items, buildings, scenarios, monsters, etc. It also reworks and | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Chorus's Arcana Addon](https://github.com/yay855/ChorusMod/archive/refs/heads/main.zip)
-| ChorusSystem | 2026.6.21-ab2e64d | Various things added to Arcana, some pulled
+| ChorusSystem | 2026.8.11-1b9b6ce | Various things added to Arcana, some pulled
 from other mods. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Chorus's CBMs](https://github.com/yay855/ChorusMod/archive/refs/heads/main.zip)
-| ChorusSystem | 2026.6.21-ab2e64d | Edits and additions to CBM content, mostly
+| ChorusSystem | 2026.8.11-1b9b6ce | Edits and additions to CBM content, mostly
 to personal preference and as a learning tool. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Chorus's Gear](https://github.com/yay855/ChorusMod/archive/refs/heads/main.zip)
-| ChorusSystem | 2026.6.21-ab2e64d | Edits and additions to weaponry, mostly to
+| ChorusSystem | 2026.8.11-1b9b6ce | Edits and additions to weaponry, mostly to
 personal preference and as a learning tool. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Chorus's Martial Arts](https://github.com/yay855/ChorusMod/archive/refs/heads/main.zip)
-| ChorusSystem | 2026.6.21-ab2e64d | Custom martial arts styles. Perhaps not the
+| ChorusSystem | 2026.8.11-1b9b6ce | Custom martial arts styles. Perhaps not the
 most realistic! Finally balanced a bit better. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Chorus's Primitive Living](https://github.com/yay855/ChorusMod/archive/refs/heads/main.zip)
-| Tyzegt,ChorusSystem | 2026.6.21-ab2e64d | Mostly things ripped from Primal
+| Tyzegt,ChorusSystem | 2026.8.11-1b9b6ce | Mostly things ripped from Primal
 World, but without sacrificing preexisting structures and non-foraged loot. Do
 not use with Primal World. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Chorus's Starts](https://github.com/yay855/ChorusMod/archive/refs/heads/main.zip)
-| ChorusSystem | 2026.6.21-ab2e64d | New starts, mostly based around characters
+| ChorusSystem | 2026.8.11-1b9b6ce | New starts, mostly based around characters
 I like from other series. Probably OP. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
@@ -353,7 +353,7 @@ fancy needs. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Lones Augmented Arsenal](https://github.com/thelonestander/Lones-Augmented-Arsenal/archive/refs/heads/main.zip)
-| Thelonestander | 2026.7.30-2bd28da | Adds many new atomic gears to BN! | |
+| Thelonestander | 2026.8.11-8ce6b5e | Adds many new atomic gears to BN! | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Lones Cata++ patchmod](https://github.com/thelonestander/Lones-atomic-additions/archive/refs/heads/main.zip)
