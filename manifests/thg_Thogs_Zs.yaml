@@ -18,9 +18,6 @@ version: 0.0.0
 dependencies:
   bn: ">=0.12.0"
 source:
-  type: github_archive
+  type: direct_url
   url: >-
-    https://github.com/caninmyham/Thogs-Zombies/releases/download/Release/TZ-.Thog.s.Zombies.zip
-autoupdate:
-  type: tag
-
+    https://github.com/caninmyham/Thogs-Zombies/releases/download/ReleaseV2/TZ-.Thog.s.Zombies.zip
