@@ -376,7 +376,7 @@ fancy needs. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Lones Augmented Arsenal](https://github.com/thelonestander/Lones-Augmented-Arsenal/archive/refs/heads/main.zip)
-| Thelonestander | 2026.10.31-e34a984 | Adds many new atomic gears to BN! | |
+| Thelonestander | 2026.11.11-7d93afb | Adds many new atomic gears to BN! | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Lones Cata++ patchmod](https://github.com/thelonestander/Lones-atomic-additions/archive/refs/heads/main.zip)
@@ -390,7 +390,7 @@ to find | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Lones used cars](https://github.com/thelonestander/Lones-Used-Cars/archive/refs/heads/main.zip)
-| thelonestander | 2026.10.10-678eef4 | A mod that adds new cars to BN! | |
+| thelonestander | 2026.11.11-dad24cb | A mod that adds new cars to BN! | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [MOD to grow tea leaves](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip)
@@ -405,7 +405,7 @@ strange substances? Growing bizarre apendices? (almost)Everybody gets one! | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [MST Extra](https://github.com/chaosvolt/MST_Extra_Mod/archive/refs/heads/master.zip)
-| Chaosvolt | 2026.11.10-a879b8d | The sequeal to CDDA's old More Survival Tools
+| Chaosvolt | 2026.11.11-0e694b3 | The sequeal to CDDA's old More Survival Tools
 mod, adding additional useful innawoods content. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |

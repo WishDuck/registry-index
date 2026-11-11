@@ -3427,7 +3427,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/thelonestander/Lones-Augmented-Arsenal",
-    "version": "2026.10.31-e34a984",
+    "version": "2026.11.11-7d93afb",
     "dependencies": {
       "bn": ">=0.9.1",
       "aftershock": "*",
@@ -3436,7 +3436,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/thelonestander/Lones-Augmented-Arsenal/archive/refs/heads/main.zip",
-      "commit_sha": "e34a984c0878c67569d42c0a0a23beee9a801c16"
+      "commit_sha": "7d93afbbebe227b23e6d707bfe5887c0b205af31"
     },
     "categories": [
       "content"
@@ -3447,7 +3447,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-10-31T03:39:17.979Z"
+    "last_updated": "2026-11-11T03:41:08.934Z"
   },
   {
     "schema_version": "1.0",
@@ -3524,14 +3524,14 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/thelonestander/Lones-Used-Cars",
-    "version": "2026.10.10-678eef4",
+    "version": "2026.11.11-dad24cb",
     "dependencies": {
       "bn": ">=0.9.1"
     },
     "source": {
       "type": "github_archive",
       "url": "https://github.com/thelonestander/Lones-Used-Cars/archive/refs/heads/main.zip",
-      "commit_sha": "678eef48994d0e54f6abc1e66dd0d0d2f5784bc5"
+      "commit_sha": "dad24cb0ca396bd47fef845a7ca9ff6d7b883a3b"
     },
     "categories": [
       "content"
@@ -3542,7 +3542,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-10-10T03:48:40.512Z"
+    "last_updated": "2026-11-11T03:40:52.181Z"
   },
   {
     "schema_version": "1.0",
@@ -3621,14 +3621,14 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/chaosvolt/MST_Extra_Mod/tree/master/MST_Extra_BN",
-    "version": "2026.11.10-a879b8d",
+    "version": "2026.11.11-0e694b3",
     "dependencies": {
       "bn": ">=0.9.1"
     },
     "source": {
       "type": "github_archive",
       "url": "https://github.com/chaosvolt/MST_Extra_Mod/archive/refs/heads/master.zip",
-      "commit_sha": "a879b8d05bbc851da9710693d063954a4c3cd31f",
+      "commit_sha": "0e694b3b846b69441fffc8cf4ef1ea521551bcc1",
       "extract_path": "MST_Extra_BN"
     },
     "categories": [
@@ -3640,7 +3640,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-11-10T05:07:40.927Z"
+    "last_updated": "2026-11-11T03:40:53.611Z"
   },
   {
     "schema_version": "1.0",
