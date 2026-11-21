@@ -9,7 +9,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/3x_healing",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -19,7 +19,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/3x_healing"
     },
     "categories": [
@@ -31,7 +31,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:31.675Z"
   },
   {
     "schema_version": "1.0",
@@ -43,7 +43,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Abrahms_Recipes",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -53,7 +53,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Abrahms_Recipes"
     },
     "categories": [
@@ -65,7 +65,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:02.006Z"
   },
   {
     "schema_version": "1.0",
@@ -77,7 +77,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/M_Agents_Expanded",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -87,7 +87,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/M_Agents_Expanded"
     },
     "categories": [
@@ -99,7 +99,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:01.622Z"
   },
   {
     "schema_version": "1.0",
@@ -111,7 +111,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/aaa NO blacklist",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -121,7 +121,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/aaa NO blacklist"
     },
     "categories": [
@@ -133,7 +133,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:35.398Z"
   },
   {
     "schema_version": "1.0",
@@ -145,7 +145,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/AdvancedGear_CDDA_Mod",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -155,7 +155,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/AdvancedGear_CDDA_Mod"
     },
     "categories": [
@@ -167,7 +167,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:48.733Z"
   },
   {
     "schema_version": "1.0",
@@ -180,14 +180,14 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Advanced_Technologies",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Advanced_Technologies"
     },
     "categories": [
@@ -199,7 +199,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:44.362Z"
   },
   {
     "schema_version": "1.0",
@@ -244,7 +244,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/Mutated-Arsenal",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -254,7 +254,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/Mutated-Arsenal"
     },
     "categories": [
@@ -266,7 +266,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:47.791Z"
   },
   {
     "schema_version": "1.0",
@@ -278,7 +278,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Basement_Extension",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -288,7 +288,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Basement_Extension"
     },
     "categories": [
@@ -300,7 +300,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:53.373Z"
   },
   {
     "schema_version": "1.0",
@@ -312,7 +312,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/amplified_player_features",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -322,7 +322,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/amplified_player_features"
     },
     "categories": [
@@ -334,7 +334,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:59.924Z"
   },
   {
     "schema_version": "1.0",
@@ -346,7 +346,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Animatronics",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -356,7 +356,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Animatronics"
     },
     "categories": [
@@ -368,7 +368,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:34.526Z"
   },
   {
     "schema_version": "1.0",
@@ -635,7 +635,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Arsenal_Breach",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -645,7 +645,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Arsenal_Breach"
     },
     "categories": [
@@ -657,7 +657,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:59.886Z"
   },
   {
     "schema_version": "1.0",
@@ -669,14 +669,14 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Artyom_Emporium_v.1",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Artyom_Emporium_v.1"
     },
     "categories": [
@@ -688,7 +688,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:48.970Z"
   },
   {
     "schema_version": "1.0",
@@ -700,7 +700,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Autodoc_Harmless_Perfect",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -710,7 +710,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Autodoc_Harmless_Perfect"
     },
     "categories": [
@@ -722,7 +722,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:45.172Z"
   },
   {
     "schema_version": "1.0",
@@ -734,7 +734,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/BL9-100%_monster_resilience_version",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -748,7 +748,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/BL9-100%_monster_resilience_version"
     },
     "categories": [
@@ -760,7 +760,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:49.017Z"
   },
   {
     "schema_version": "1.0",
@@ -772,7 +772,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/BL9-140%_monster_resilience_version",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -786,7 +786,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/BL9-140%_monster_resilience_version"
     },
     "categories": [
@@ -799,7 +799,7 @@
       "branch": "master"
     },
     "parent": "bl9_100monres",
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:04.747Z"
   },
   {
     "schema_version": "1.0",
@@ -811,7 +811,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/BL9-175%_monster_resilience_version",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -825,7 +825,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/BL9-175%_monster_resilience_version"
     },
     "categories": [
@@ -838,7 +838,7 @@
       "branch": "master"
     },
     "parent": "bl9_100monres",
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:35.445Z"
   },
   {
     "schema_version": "1.0",
@@ -882,7 +882,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Battle_Maid_Redux",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -892,7 +892,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Battle_Maid_Redux"
     },
     "categories": [
@@ -904,7 +904,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:47.979Z"
   },
   {
     "schema_version": "1.0",
@@ -945,7 +945,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Tolerate_This",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -955,7 +955,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Tolerate_This"
     },
     "categories": [
@@ -967,7 +967,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:37.290Z"
   },
   {
     "schema_version": "1.0",
@@ -979,7 +979,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Biosynthetic_Robot_Mod_jm",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -989,7 +989,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Biosynthetic_Robot_Mod_jm"
     },
     "categories": [
@@ -1001,7 +1001,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:50.934Z"
   },
   {
     "schema_version": "1.0",
@@ -1013,7 +1013,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/BioCo",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -1023,7 +1023,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/BioCo"
     },
     "categories": [
@@ -1035,7 +1035,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:47.886Z"
   },
   {
     "schema_version": "1.0",
@@ -1047,7 +1047,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Bionic_Space_Expander",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -1057,7 +1057,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Bionic_Space_Expander"
     },
     "categories": [
@@ -1069,7 +1069,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:50.883Z"
   },
   {
     "schema_version": "1.0",
@@ -1081,7 +1081,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Bionics_Recipes",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -1091,7 +1091,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Bionics_Recipes"
     },
     "categories": [
@@ -1103,7 +1103,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:48.545Z"
   },
   {
     "schema_version": "1.0",
@@ -1148,7 +1148,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/blazemod",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -1158,7 +1158,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/blazemod"
     },
     "categories": [
@@ -1170,7 +1170,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:35.494Z"
   },
   {
     "schema_version": "1.0",
@@ -1243,14 +1243,14 @@
     ],
     "license": "CC-BY-SA-4.0",
     "homepage": "https://github.com/shmakota/blood_moon_bn/tree/main/Blood_Moon",
-    "version": "0.0.0",
+    "version": "2026.11.21-e09e442",
     "dependencies": {
       "bn": ">=0.9.1"
     },
     "source": {
       "type": "github_archive",
       "url": "https://github.com/shmakota/blood_moon_bn/archive/refs/heads/main.zip",
-      "commit_sha": "80803602b5e897a6fd344d409cfb8ce8334de613",
+      "commit_sha": "e09e442ff5f624ea0a3d6f9f3963191eff7ec2b8",
       "extract_path": "blood_moon_bn-main/Blood_Moon"
     },
     "categories": [
@@ -1267,7 +1267,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-07-03T02:23:34Z"
+    "last_updated": "2026-11-21T04:42:51.800Z"
   },
   {
     "schema_version": "1.0",
@@ -1345,7 +1345,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Bootleg_Walkers",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -1356,7 +1356,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Bootleg_Walkers"
     },
     "categories": [
@@ -1368,7 +1368,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:45.832Z"
   },
   {
     "schema_version": "1.0",
@@ -1380,7 +1380,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Bugs_Life",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -1390,7 +1390,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Bugs_Life"
     },
     "categories": [
@@ -1402,7 +1402,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:01.965Z"
   },
   {
     "schema_version": "1.0",
@@ -1414,7 +1414,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/CBMArms",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -1424,7 +1424,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/CBMArms"
     },
     "categories": [
@@ -1436,7 +1436,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:35.637Z"
   },
   {
     "schema_version": "1.0",
@@ -1476,7 +1476,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/cdda_variety_pack",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -1486,7 +1486,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/cdda_variety_pack"
     },
     "categories": [
@@ -1498,7 +1498,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:45.452Z"
   },
   {
     "schema_version": "1.0",
@@ -1510,14 +1510,14 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/Civilianpowerarmor",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/Civilianpowerarmor"
     },
     "categories": [
@@ -1529,7 +1529,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:48.684Z"
   },
   {
     "schema_version": "1.0",
@@ -1541,7 +1541,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/PrepperCache",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -1551,7 +1551,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/PrepperCache"
     },
     "categories": [
@@ -1563,7 +1563,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:46.205Z"
   },
   {
     "schema_version": "1.0",
@@ -1575,7 +1575,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/cdda_wrecks",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -1585,7 +1585,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/cdda_wrecks"
     },
     "categories": [
@@ -1597,7 +1597,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:47.745Z"
   },
   {
     "schema_version": "1.0",
@@ -1679,14 +1679,14 @@
     ],
     "license": "CC-BY-SA-4.0",
     "homepage": "https://github.com/lotus-eaten/Cataclysm-Second-Chance/tree/main/Second Chance Redux",
-    "version": "0.0.0",
+    "version": "2026.11.21-f2b4c56",
     "dependencies": {
       "bn": ">=0.9.1"
     },
     "source": {
       "type": "github_archive",
       "url": "https://github.com/lotus-eaten/Cataclysm-Second-Chance/archive/refs/heads/main.zip",
-      "commit_sha": "30d3b06d751121afaa65ca77f55ab2f5a2934913",
+      "commit_sha": "f2b4c5659828857bd90e89a5ed0f6ad9f9b6c09f",
       "extract_path": "Cataclysm-Second-Chance-main/Second Chance Redux"
     },
     "categories": [
@@ -1696,7 +1696,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-09-14T09:12:01+09:00"
+    "last_updated": "2026-11-21T04:42:34.984Z"
   },
   {
     "schema_version": "1.0",
@@ -1905,7 +1905,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Ninja_mod",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -1915,7 +1915,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Ninja_mod"
     },
     "categories": [
@@ -1927,7 +1927,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:48.830Z"
   },
   {
     "schema_version": "1.0",
@@ -1969,7 +1969,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/SD_Magcrafting",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -1979,7 +1979,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/SD_Magcrafting"
     },
     "categories": [
@@ -1991,7 +1991,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:38.102Z"
   },
   {
     "schema_version": "1.0",
@@ -2034,7 +2034,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Craft_Gunpowder",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -2044,7 +2044,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Craft_Gunpowder"
     },
     "categories": [
@@ -2056,7 +2056,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:35.590Z"
   },
   {
     "schema_version": "1.0",
@@ -2068,7 +2068,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/crazy_labs",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -2078,7 +2078,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/crazy_labs"
     },
     "categories": [
@@ -2090,7 +2090,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:38.552Z"
   },
   {
     "schema_version": "1.0",
@@ -2102,7 +2102,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/crazy_pets",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -2112,7 +2112,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/crazy_pets"
     },
     "categories": [
@@ -2124,7 +2124,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:02.088Z"
   },
   {
     "schema_version": "1.0",
@@ -2137,7 +2137,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/CulinaryDaysAhead",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -2147,7 +2147,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/CulinaryDaysAhead"
     },
     "categories": [
@@ -2159,7 +2159,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:04.333Z"
   },
   {
     "schema_version": "1.0",
@@ -2172,7 +2172,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/FictonalWeapons",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -2182,7 +2182,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/FictonalWeapons"
     },
     "categories": [
@@ -2194,7 +2194,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:39.461Z"
   },
   {
     "schema_version": "1.0",
@@ -2206,7 +2206,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/DracoDogMod",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -2216,7 +2216,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/DracoDogMod"
     },
     "categories": [
@@ -2228,7 +2228,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:04.292Z"
   },
   {
     "schema_version": "1.0",
@@ -2240,7 +2240,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/DracoPigMod",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -2250,7 +2250,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/DracoPigMod"
     },
     "categories": [
@@ -2262,7 +2262,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:59.841Z"
   },
   {
     "schema_version": "1.0",
@@ -2302,7 +2302,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/ETC_handguns_etc",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -2312,7 +2312,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/ETC_handguns_etc"
     },
     "categories": [
@@ -2324,7 +2324,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:45.972Z"
   },
   {
     "schema_version": "1.0",
@@ -2336,7 +2336,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/fast_healing",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -2346,7 +2346,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/fast_healing"
     },
     "categories": [
@@ -2358,7 +2358,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:37.735Z"
   },
   {
     "schema_version": "1.0",
@@ -2370,7 +2370,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Even_More_Mutations",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -2380,7 +2380,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Even_More_Mutations"
     },
     "categories": [
@@ -2392,7 +2392,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:48.781Z"
   },
   {
     "schema_version": "1.0",
@@ -2404,7 +2404,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Expanded_Archery_Temp_Lite_Version",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -2414,7 +2414,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Expanded_Archery_Temp_Lite_Version"
     },
     "categories": [
@@ -2426,7 +2426,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:03.650Z"
   },
   {
     "schema_version": "1.0",
@@ -2503,7 +2503,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/stamina_regen_buff",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -2513,7 +2513,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/stamina_regen_buff"
     },
     "categories": [
@@ -2525,7 +2525,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:48.877Z"
   },
   {
     "schema_version": "1.0",
@@ -2539,13 +2539,14 @@
     ],
     "license": "AGPL-3.0-or-later",
     "homepage": "https://github.com/WishDuck/Cataclysm-BN-Mods/tree/master/FilthyClothing",
-    "version": "12.0.1",
+    "version": "13.0.7",
     "dependencies": {
       "bn": ">=0.12.0"
     },
     "source": {
       "type": "github_archive",
-      "url": "https://github.com/WishDuck/Cataclysm-BN-Mods/archive/refs/tags/12.0.1.zip",
+      "url": "https://github.com/WishDuck/Cataclysm-BN-Mods/archive/refs/tags/13.0.7.zip",
+      "commit_sha": "92c72371f56f580ce5cfe5c0c80488ce62c6bcc5",
       "extract_path": "FilthyClothing"
     },
     "uses_lua": true,
@@ -2556,7 +2557,7 @@
       "regex": "^[0-9]+\\.[0-9]+\\.[0-9]+$",
       "url": "https://github.com/WishDuck/Cataclysm-BN-Mods/archive/refs/tags/$version.zip"
     },
-    "last_updated": "2026-08-28T09:26:05+09:00"
+    "last_updated": "2026-11-21T04:42:32.260Z"
   },
   {
     "schema_version": "1.0",
@@ -2633,7 +2634,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/DeoxyMod",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -2643,7 +2644,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/DeoxyMod"
     },
     "categories": [
@@ -2655,7 +2656,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:34.479Z"
   },
   {
     "schema_version": "1.0",
@@ -2667,7 +2668,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/Fuji_Mil_Prof",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -2677,7 +2678,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/Fuji_Mil_Prof"
     },
     "categories": [
@@ -2689,7 +2690,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:00.723Z"
   },
   {
     "schema_version": "1.0",
@@ -2733,7 +2734,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/GourmandsGraces",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -2743,7 +2744,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/GourmandsGraces"
     },
     "categories": [
@@ -2755,7 +2756,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:52.393Z"
   },
   {
     "schema_version": "1.0",
@@ -2767,7 +2768,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Growable_Garden_pots",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -2777,7 +2778,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Growable_Garden_pots"
     },
     "categories": [
@@ -2789,7 +2790,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:33.429Z"
   },
   {
     "schema_version": "1.0",
@@ -2801,14 +2802,14 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Growable_Various_Plants_Uekibati_mod",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Growable_Various_Plants_Uekibati_mod"
     },
     "categories": [
@@ -2820,7 +2821,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:01.083Z"
   },
   {
     "schema_version": "1.0",
@@ -2864,7 +2865,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/MkMaxxi_Gunslinger_Mod",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -2874,7 +2875,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/MkMaxxi_Gunslinger_Mod"
     },
     "categories": [
@@ -2886,7 +2887,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:53.780Z"
   },
   {
     "schema_version": "1.0",
@@ -2898,7 +2899,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/XottoCosmeticsmod",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -2908,7 +2909,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/XottoCosmeticsmod"
     },
     "categories": [
@@ -2920,7 +2921,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:00.002Z"
   },
   {
     "schema_version": "1.0",
@@ -2932,7 +2933,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/homemade_fungicide",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -2942,7 +2943,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/homemade_fungicide"
     },
     "categories": [
@@ -2954,7 +2955,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:53.730Z"
   },
   {
     "schema_version": "1.0",
@@ -2999,7 +3000,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Hydroponics",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -3009,7 +3010,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Hydroponics"
     },
     "categories": [
@@ -3021,7 +3022,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:33.966Z"
   },
   {
     "schema_version": "1.0",
@@ -3034,7 +3035,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/EW_Pack",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -3044,7 +3045,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/EW_Pack"
     },
     "categories": [
@@ -3056,7 +3057,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:49.316Z"
   },
   {
     "schema_version": "1.0",
@@ -3196,7 +3197,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Jury_Rigged_Robots",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -3206,7 +3207,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Jury_Rigged_Robots"
     },
     "categories": [
@@ -3218,7 +3219,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:35.543Z"
   },
   {
     "schema_version": "1.0",
@@ -3230,7 +3231,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/Kingsman",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -3240,7 +3241,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/Kingsman"
     },
     "categories": [
@@ -3252,7 +3253,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:00.684Z"
   },
   {
     "schema_version": "1.0",
@@ -3264,7 +3265,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Large_Capacity_Storage_CBMs",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -3274,7 +3275,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Large_Capacity_Storage_CBMs"
     },
     "categories": [
@@ -3286,7 +3287,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:54.341Z"
   },
   {
     "schema_version": "1.0",
@@ -3298,7 +3299,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/AV_lethalzed_cdda",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -3308,7 +3309,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/AV_lethalzed_cdda"
     },
     "categories": [
@@ -3320,7 +3321,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:48.591Z"
   },
   {
     "schema_version": "1.0",
@@ -3333,14 +3334,14 @@
     ],
     "license": "MIT",
     "homepage": "https://github.com/sagittarius72git/limited_reviving_zombies",
-    "version": "1.0.0",
+    "version": "2026.11.21-2f8b455",
     "dependencies": {
       "bn": ">=0.12.0"
     },
     "source": {
       "type": "github_archive",
       "url": "https://github.com/sagittarius72git/limited_reviving_zombies/archive/refs/heads/main.zip",
-      "commit_sha": "de8b0b863a711d07a71a01232cabc5db01166465"
+      "commit_sha": "2f8b455c12f37b6abfdc19567fd45e600281c0aa"
     },
     "categories": [
       "qol",
@@ -3350,7 +3351,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-10-09T23:31:05+09:00"
+    "last_updated": "2026-11-21T04:42:54.909Z"
   },
   {
     "schema_version": "1.0",
@@ -3555,7 +3556,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/More_tea_leaf",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -3565,7 +3566,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/More_tea_leaf"
     },
     "categories": [
@@ -3577,7 +3578,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-10-14T15:26:06+09:00"
+    "last_updated": "2026-11-21T04:42:50.981Z"
   },
   {
     "schema_version": "1.0",
@@ -3652,7 +3653,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/Make_a_Lot_of_Items_Mod",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -3662,7 +3663,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/Make_a_Lot_of_Items_Mod"
     },
     "categories": [
@@ -3674,7 +3675,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:38.149Z"
   },
   {
     "schema_version": "1.0",
@@ -3686,7 +3687,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/makeshift",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -3696,7 +3697,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/makeshift"
     },
     "categories": [
@@ -3708,7 +3709,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:05.809Z"
   },
   {
     "schema_version": "1.0",
@@ -3720,7 +3721,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/mapspecials_demo",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -3730,7 +3731,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/mapspecials_demo"
     },
     "categories": [
@@ -3742,7 +3743,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:46.156Z"
   },
   {
     "schema_version": "1.0",
@@ -3819,7 +3820,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/Merchant",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -3829,7 +3830,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/Merchant"
     },
     "categories": [
@@ -3841,7 +3842,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:53.326Z"
   },
   {
     "schema_version": "1.0",
@@ -3853,7 +3854,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/metal_elemental",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -3863,7 +3864,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/metal_elemental"
     },
     "categories": [
@@ -3875,7 +3876,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:39.817Z"
   },
   {
     "schema_version": "1.0",
@@ -3889,21 +3890,21 @@
     ],
     "license": "CC-BY-SA-4.0",
     "homepage": "https://github.com/MSCantrell/Mind-Over-Matter-for-Bright-Nights/tree/main/mindovermatter_bn",
-    "version": "2026.11.15-dfb6abb",
+    "version": "2026.11.21-961e9a8",
     "dependencies": {
       "bn": ">=0.9.1"
     },
     "source": {
       "type": "github_archive",
       "url": "https://github.com/MSCantrell/Mind-Over-Matter-for-Bright-Nights/archive/refs/heads/main.zip",
-      "commit_sha": "dfb6abb4fdf2c52a3173ffa7bc585930777f7f9a",
+      "commit_sha": "961e9a8ee93b7def8a59c9397958b6c0d04a3992",
       "extract_path": "Mind-Over-Matter-for-Bright-Nights-main/mindovermatter_bn"
     },
     "autoupdate": {
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-11-15T03:42:46.617Z"
+    "last_updated": "2026-11-21T04:43:06.355Z"
   },
   {
     "schema_version": "1.0",
@@ -3916,7 +3917,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Modern_Weapons_Pack_Expanded",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -3926,7 +3927,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Modern_Weapons_Pack_Expanded"
     },
     "categories": [
@@ -3938,7 +3939,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:48.499Z"
   },
   {
     "schema_version": "1.0",
@@ -3950,7 +3951,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Modular_Turrets",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -3960,7 +3961,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Modular_Turrets"
     },
     "categories": [
@@ -3972,7 +3973,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:45.123Z"
   },
   {
     "schema_version": "1.0",
@@ -3984,7 +3985,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/More_Armor",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -3994,7 +3995,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/More_Armor"
     },
     "categories": [
@@ -4006,7 +4007,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:50.353Z"
   },
   {
     "schema_version": "1.0",
@@ -4080,7 +4081,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/More_Locations",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -4090,7 +4091,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/More_Locations"
     },
     "categories": [
@@ -4102,7 +4103,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:53.235Z"
   },
   {
     "schema_version": "1.0",
@@ -4114,7 +4115,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/More_Makeshift_Stuff",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -4124,7 +4125,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/More_Makeshift_Stuff"
     },
     "categories": [
@@ -4136,7 +4137,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:34.575Z"
   },
   {
     "schema_version": "1.0",
@@ -4148,7 +4149,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/More_Survivor_Notes",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -4158,7 +4159,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/More_Survivor_Notes"
     },
     "categories": [
@@ -4170,7 +4171,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:49.618Z"
   },
   {
     "schema_version": "1.0",
@@ -4182,7 +4183,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/More_Survivor_Stuff",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -4192,7 +4193,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/More_Survivor_Stuff"
     },
     "categories": [
@@ -4204,7 +4205,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:51.240Z"
   },
   {
     "schema_version": "1.0",
@@ -4216,7 +4217,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Morlock_Village",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -4226,7 +4227,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Morlock_Village"
     },
     "categories": [
@@ -4238,7 +4239,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-10-14T15:26:06+09:00"
+    "last_updated": "2026-11-21T04:43:00.768Z"
   },
   {
     "schema_version": "1.0",
@@ -4282,7 +4283,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/Mug_NPCs",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -4292,7 +4293,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/Mug_NPCs"
     },
     "categories": [
@@ -4304,7 +4305,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:53.281Z"
   },
   {
     "schema_version": "1.0",
@@ -4316,7 +4317,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Mutant_Animals",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -4326,7 +4327,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Mutant_Animals"
     },
     "categories": [
@@ -4338,7 +4339,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:02.705Z"
   },
   {
     "schema_version": "1.0",
@@ -4350,7 +4351,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Mutant_Insects",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -4360,7 +4361,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Mutant_Insects"
     },
     "categories": [
@@ -4372,7 +4373,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:38.828Z"
   },
   {
     "schema_version": "1.0",
@@ -4384,7 +4385,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Mutant_NPCs",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -4394,7 +4395,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Mutant_NPCs"
     },
     "categories": [
@@ -4406,7 +4407,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:00.040Z"
   },
   {
     "schema_version": "1.0",
@@ -4420,14 +4421,14 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Mutation_Changes_Snofielf_Patch",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Mutation_Changes_Snofielf_Patch"
     },
     "categories": [
@@ -4439,7 +4440,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:46.064Z"
   },
   {
     "schema_version": "1.0",
@@ -4451,7 +4452,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/mycus",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -4461,7 +4462,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/mycus"
     },
     "categories": [
@@ -4473,7 +4474,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:05.887Z"
   },
   {
     "schema_version": "1.0",
@@ -4487,7 +4488,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/MMA_Mods_Extension",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -4498,7 +4499,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/MMA_Mods_Extension"
     },
     "categories": [
@@ -4510,7 +4511,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:45.879Z"
   },
   {
     "schema_version": "1.0",
@@ -4522,7 +4523,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/NW_Pack",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -4532,7 +4533,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/NW_Pack"
     },
     "categories": [
@@ -4544,7 +4545,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:00.646Z"
   },
   {
     "schema_version": "1.0",
@@ -4556,7 +4557,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Recruitment_Options",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -4566,7 +4567,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Recruitment_Options"
     },
     "categories": [
@@ -4578,7 +4579,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:35.683Z"
   },
   {
     "schema_version": "1.0",
@@ -4590,7 +4591,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/National_Guard_Camp",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -4600,7 +4601,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/National_Guard_Camp"
     },
     "categories": [
@@ -4612,7 +4613,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:01.584Z"
   },
   {
     "schema_version": "1.0",
@@ -4656,7 +4657,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Nechronica_Redux",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -4666,7 +4667,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Nechronica_Redux"
     },
     "categories": [
@@ -4678,7 +4679,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:53.419Z"
   },
   {
     "schema_version": "1.0",
@@ -4723,7 +4724,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/necromancy",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -4733,7 +4734,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/necromancy"
     },
     "categories": [
@@ -4745,7 +4746,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:02.667Z"
   },
   {
     "schema_version": "1.0",
@@ -4757,7 +4758,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Necropolis_findable",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -4767,7 +4768,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Necropolis_findable"
     },
     "categories": [
@@ -4779,7 +4780,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:06.041Z"
   },
   {
     "schema_version": "1.0",
@@ -4791,14 +4792,14 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Nimian_Manufacture",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Nimian_Manufacture"
     },
     "categories": [
@@ -4810,7 +4811,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:06.003Z"
   },
   {
     "schema_version": "1.0",
@@ -4887,7 +4888,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/Only_Wildlife",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -4897,7 +4898,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/Only_Wildlife"
     },
     "categories": [
@@ -4909,7 +4910,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:04.373Z"
   },
   {
     "schema_version": "1.0",
@@ -4953,7 +4954,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/oa_early_game_mutations_mod",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -4963,7 +4964,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/oa_early_game_mutations_mod"
     },
     "categories": [
@@ -4975,7 +4976,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:05.926Z"
   },
   {
     "schema_version": "1.0",
@@ -4987,7 +4988,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Old_Mutations",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -4997,7 +4998,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Old_Mutations"
     },
     "categories": [
@@ -5009,7 +5010,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:05.730Z"
   },
   {
     "schema_version": "1.0",
@@ -5282,7 +5283,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/pipe-revolver-rifles",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -5293,7 +5294,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/pipe-revolver-rifles"
     },
     "categories": [
@@ -5305,7 +5306,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:47.932Z"
   },
   {
     "schema_version": "1.0",
@@ -5317,14 +5318,14 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/pixels_fuckery",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/pixels_fuckery"
     },
     "categories": [
@@ -5336,7 +5337,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:38.450Z"
   },
   {
     "schema_version": "1.0",
@@ -5349,7 +5350,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Pneumatic_fun",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -5359,7 +5360,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Pneumatic_fun"
     },
     "categories": [
@@ -5371,7 +5372,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:35.777Z"
   },
   {
     "schema_version": "1.0",
@@ -5383,7 +5384,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/ProjectAPEX",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -5393,7 +5394,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/ProjectAPEX"
     },
     "categories": [
@@ -5405,7 +5406,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:59.962Z"
   },
   {
     "schema_version": "1.0",
@@ -5417,14 +5418,14 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Project_Kawaii",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Project_Kawaii"
     },
     "categories": [
@@ -5436,7 +5437,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:02.049Z"
   },
   {
     "schema_version": "1.0",
@@ -5448,7 +5449,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Psychiclysm",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -5459,7 +5460,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Psychiclysm"
     },
     "categories": [
@@ -5471,7 +5472,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:48.923Z"
   },
   {
     "schema_version": "1.0",
@@ -5484,14 +5485,14 @@
     ],
     "license": "MIT",
     "homepage": "https://github.com/sagittarius72git/QoL_ITEM",
-    "version": "0.0.0",
+    "version": "2026.11.21-a7097d4",
     "dependencies": {
       "bn": ">=0.13.0"
     },
     "source": {
       "type": "github_archive",
       "url": "https://github.com/sagittarius72git/QoL_ITEM/archive/refs/heads/main.zip",
-      "commit_sha": "41511def76abb4c34a7130f72f5307b7f78c7317"
+      "commit_sha": "a7097d43aa582949fce759ac5d9380a50bb055bf"
     },
     "categories": [
       "items",
@@ -5504,7 +5505,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-10-09T23:31:19+09:00"
+    "last_updated": "2026-11-21T04:42:46.707Z"
   },
   {
     "schema_version": "1.0",
@@ -5516,7 +5517,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/Randomized_Mall",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -5526,7 +5527,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/Randomized_Mall"
     },
     "categories": [
@@ -5538,7 +5539,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:05.771Z"
   },
   {
     "schema_version": "1.0",
@@ -6282,7 +6283,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Red's_Odd_Additions",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -6292,7 +6293,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Red's_Odd_Additions"
     },
     "categories": [
@@ -6304,7 +6305,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:05.377Z"
   },
   {
     "schema_version": "1.0",
@@ -6348,7 +6349,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/future_armory",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -6358,7 +6359,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/future_armory"
     },
     "categories": [
@@ -6370,7 +6371,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:04.253Z"
   },
   {
     "schema_version": "1.0",
@@ -6382,7 +6383,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/lightsabermod",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -6392,7 +6393,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/lightsabermod"
     },
     "categories": [
@@ -6404,7 +6405,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:54.381Z"
   },
   {
     "schema_version": "1.0",
@@ -6416,7 +6417,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/HeavyMining",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "mainlined in Nightly 2026-05-17 (see https://github.com/cataclysmbn/Cataclysm-BN/pull/8894)"
     },
@@ -6427,7 +6428,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/HeavyMining"
     },
     "categories": [
@@ -6439,7 +6440,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-17T12:24:18+09:00"
+    "last_updated": "2026-11-21T04:42:44.269Z"
   },
   {
     "schema_version": "1.0",
@@ -6451,7 +6452,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Salvaged_Robots",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -6462,7 +6463,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Salvaged_Robots"
     },
     "categories": [
@@ -6474,7 +6475,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:47.839Z"
   },
   {
     "schema_version": "1.0",
@@ -6486,7 +6487,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Sarcophagi_Access",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -6496,7 +6497,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Sarcophagi_Access"
     },
     "categories": [
@@ -6508,7 +6509,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:05.848Z"
   },
   {
     "schema_version": "1.0",
@@ -6551,7 +6552,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/secronom",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -6561,7 +6562,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/secronom"
     },
     "categories": [
@@ -6573,7 +6574,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:45.926Z"
   },
   {
     "schema_version": "1.0",
@@ -6586,7 +6587,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Ships",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -6596,7 +6597,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Ships"
     },
     "categories": [
@@ -6608,7 +6609,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:04.629Z"
   },
   {
     "schema_version": "1.0",
@@ -6620,7 +6621,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/shrub_it_off",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -6630,7 +6631,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/shrub_it_off"
     },
     "categories": [
@@ -6642,7 +6643,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:45.547Z"
   },
   {
     "schema_version": "1.0",
@@ -6654,7 +6655,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/CDDA_Sierra_Madre_mod_bright_nights_version",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -6664,7 +6665,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/CDDA_Sierra_Madre_mod_bright_nights_version"
     },
     "categories": [
@@ -6676,7 +6677,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:05.964Z"
   },
   {
     "schema_version": "1.0",
@@ -6717,7 +6718,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Soy_Mod",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -6728,7 +6729,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Soy_Mod"
     },
     "categories": [
@@ -6740,7 +6741,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:47.699Z"
   },
   {
     "schema_version": "1.0",
@@ -6784,7 +6785,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Steampunk_mod_jm",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -6794,7 +6795,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Steampunk_mod_jm"
     },
     "categories": [
@@ -6806,7 +6807,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:46.018Z"
   },
   {
     "schema_version": "1.0",
@@ -6850,7 +6851,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/surv_crowbar",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -6860,7 +6861,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/surv_crowbar"
     },
     "categories": [
@@ -6872,7 +6873,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:36.045Z"
   },
   {
     "schema_version": "1.0",
@@ -6884,7 +6885,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/Survivors_Lost_item",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -6894,7 +6895,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/Survivors_Lost_item"
     },
     "categories": [
@@ -6906,7 +6907,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:46.111Z"
   },
   {
     "schema_version": "1.0",
@@ -6976,7 +6977,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Threshold",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -6986,7 +6987,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Threshold"
     },
     "categories": [
@@ -6998,7 +6999,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:04.669Z"
   },
   {
     "schema_version": "1.0",
@@ -7011,7 +7012,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/tamebugs",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -7021,7 +7022,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/tamebugs"
     },
     "categories": [
@@ -7033,7 +7034,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:48.405Z"
   },
   {
     "schema_version": "1.0",
@@ -7045,7 +7046,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/chaosvolt/cdda-tankmod-revived-mod/tree/master/Tankmod_Revived_BN",
-    "version": "0.0.0",
+    "version": "2026.11.21-7456a2e",
     "yanked": {
       "reason": "mainlined in Nightly 2026-05-17 (see https://github.com/cataclysmbn/Cataclysm-BN/pull/8894)"
     },
@@ -7055,7 +7056,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/chaosvolt/cdda-tankmod-revived-mod/archive/refs/heads/master.zip",
-      "commit_sha": "ae4015995f7f619a35966b9a745209e91662971c",
+      "commit_sha": "7456a2e7d4f31dfb25714a2015ea7bebbd6b0dbe",
       "extract_path": "Tankmod_Revived_BN"
     },
     "categories": [
@@ -7067,7 +7068,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-17T12:24:18+09:00"
+    "last_updated": "2026-11-21T04:42:54.107Z"
   },
   {
     "schema_version": "1.0",
@@ -7079,7 +7080,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Targeted Mutations",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -7089,7 +7090,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Targeted Mutations"
     },
     "categories": [
@@ -7101,7 +7102,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:38.197Z"
   },
   {
     "schema_version": "1.0",
@@ -7113,7 +7114,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/Tekitoumap",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -7125,7 +7126,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/Tekitoumap"
     },
     "categories": [
@@ -7137,7 +7138,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:54.302Z"
   },
   {
     "schema_version": "1.0",
@@ -7149,7 +7150,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/CerealMod",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -7159,7 +7160,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/CerealMod"
     },
     "categories": [
@@ -7171,7 +7172,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:49.665Z"
   },
   {
     "schema_version": "1.0",
@@ -7183,7 +7184,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Vermilion_Mod",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -7193,7 +7194,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Vermilion_Mod"
     },
     "categories": [
@@ -7205,7 +7206,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:33.919Z"
   },
   {
     "schema_version": "1.0",
@@ -7217,7 +7218,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/thermal_ups",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -7227,7 +7228,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/thermal_ups"
     },
     "categories": [
@@ -7239,7 +7240,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:00.323Z"
   },
   {
     "schema_version": "1.0",
@@ -7272,7 +7273,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/trailerparkmod",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -7282,7 +7283,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/trailerparkmod"
     },
     "categories": [
@@ -7294,7 +7295,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:52.347Z"
   },
   {
     "schema_version": "1.0",
@@ -7306,7 +7307,7 @@
     ],
     "license": "CC-BY-SA-3.0",
     "homepage": "https://github.com/NobleJake/ProjectPackRat/tree/main/transformers_beta2.2",
-    "version": "2.2.0",
+    "version": "2026.11.21-9688ed6",
     "dependencies": {
       "bn": ">=0.9.1",
       "jake_s_squirrel_mod": "*"
@@ -7314,7 +7315,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/NobleJake/ProjectPackRat/archive/refs/heads/main.zip",
-      "commit_sha": "aa10755711cfb537af03b944b3fcfb23f05b4800",
+      "commit_sha": "9688ed6e873a062f02f20b8d08450f50be902091",
       "extract_path": "ProjectPackRat-main/transformers_beta2.2"
     },
     "categories": [
@@ -7328,7 +7329,7 @@
       "branch": "main"
     },
     "parent": "jake_s_squirrel_mod",
-    "last_updated": "2026-06-17T10:18:55+09:00"
+    "last_updated": "2026-11-21T04:43:01.341Z"
   },
   {
     "schema_version": "1.0",
@@ -7340,7 +7341,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Subway_Factions_Mod_jm",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -7350,7 +7351,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Subway_Factions_Mod_jm"
     },
     "categories": [
@@ -7362,7 +7363,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:49.363Z"
   },
   {
     "schema_version": "1.0",
@@ -7374,7 +7375,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/vamp_stuff",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -7384,7 +7385,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/vamp_stuff"
     },
     "categories": [
@@ -7396,7 +7397,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:04.215Z"
   },
   {
     "schema_version": "1.0",
@@ -7409,7 +7410,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/vamp_stuff_arcana",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -7421,7 +7422,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/vamp_stuff_arcana"
     },
     "categories": [
@@ -7433,7 +7434,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:48.453Z"
   },
   {
     "schema_version": "1.0",
@@ -7445,7 +7446,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/M_Blazemod_Extension",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -7456,7 +7457,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/M_Blazemod_Extension"
     },
     "categories": [
@@ -7468,7 +7469,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:59.802Z"
   },
   {
     "schema_version": "1.0",
@@ -7511,7 +7512,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Wandering_Masters-bright-nights",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -7521,7 +7522,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Wandering_Masters-bright-nights"
     },
     "categories": [
@@ -7533,7 +7534,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:46.252Z"
   },
   {
     "schema_version": "1.0",
@@ -7577,7 +7578,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/Water_Tower",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -7587,7 +7588,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/Water_Tower"
     },
     "categories": [
@@ -7599,7 +7600,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:35.730Z"
   },
   {
     "schema_version": "1.0",
@@ -7611,7 +7612,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/Whaleys Collectibles",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -7621,7 +7622,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/Whaleys Collectibles"
     },
     "categories": [
@@ -7633,7 +7634,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:44.316Z"
   },
   {
     "schema_version": "1.0",
@@ -7645,7 +7646,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Whaleys New Hair Mod",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -7655,7 +7656,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Whaleys New Hair Mod"
     },
     "categories": [
@@ -7667,7 +7668,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:38.499Z"
   },
   {
     "schema_version": "1.0",
@@ -7679,7 +7680,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/WHALEYS_TALL_BUILDINGS",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -7689,7 +7690,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/WHALEYS_TALL_BUILDINGS"
     },
     "categories": [
@@ -7701,7 +7702,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:45.500Z"
   },
   {
     "schema_version": "1.0",
@@ -7714,7 +7715,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Wild_Living",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -7724,7 +7725,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Wild_Living"
     },
     "categories": [
@@ -7736,7 +7737,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:00.284Z"
   },
   {
     "schema_version": "1.0",
@@ -7748,7 +7749,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/World_On_Fire",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -7758,7 +7759,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/World_On_Fire"
     },
     "categories": [
@@ -7770,7 +7771,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:01.925Z"
   },
   {
     "schema_version": "1.0",
@@ -7783,13 +7784,14 @@
     ],
     "license": "CC BY-SA 3.0",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XE038 XE038",
-    "version": "1.1.0",
+    "version": "2026.11.21-a504540",
     "dependencies": {
       "bn": ">=0.11.1"
     },
     "source": {
       "type": "github_archive",
       "url": "https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip",
+      "commit_sha": "a50454009dbc93614728d335760283237b719b8c",
       "extract_path": "MODS/XE038"
     },
     "categories": [
@@ -7806,7 +7808,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-11-21T04:43:03.888Z"
   },
   {
     "schema_version": "1.0",
@@ -7818,7 +7820,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/XEAS",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -7828,7 +7830,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/XEAS"
     },
     "categories": [
@@ -7840,7 +7842,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:32.015Z"
   },
   {
     "schema_version": "1.0",
@@ -9572,7 +9574,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Xenos_sas4_weapons_pack",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -9582,7 +9584,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Xenos_sas4_weapons_pack"
     },
     "categories": [
@@ -9594,7 +9596,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:01.544Z"
   },
   {
     "schema_version": "1.0",
@@ -9635,7 +9637,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Youkai_Disco",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -9645,7 +9647,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Youkai_Disco"
     },
     "categories": [
@@ -9657,7 +9659,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:04.707Z"
   },
   {
     "schema_version": "1.0",
@@ -9669,7 +9671,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/ZSFixed_CDDAXP",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -9679,7 +9681,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/ZSFixed_CDDAXP"
     },
     "categories": [
@@ -9691,7 +9693,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:39.413Z"
   },
   {
     "schema_version": "1.0",
@@ -9703,7 +9705,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Zets-Hair_More_Locations_KenanEdition",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -9714,7 +9716,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Zets-Hair_More_Locations_KenanEdition"
     },
     "categories": [
@@ -9726,7 +9728,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:00.607Z"
   },
   {
     "schema_version": "1.0",
@@ -9738,7 +9740,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Zets-Hair_PKs_Rebalancing_KenanEdition",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -9749,7 +9751,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Zets-Hair_PKs_Rebalancing_KenanEdition"
     },
     "categories": [
@@ -9761,7 +9763,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:48.639Z"
   },
   {
     "schema_version": "1.0",
@@ -9773,7 +9775,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Zets-Hair_Extensions_Undead",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -9783,7 +9785,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Zets-Hair_Extensions_Undead"
     },
     "categories": [
@@ -9795,7 +9797,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:44.408Z"
   },
   {
     "schema_version": "1.0",
@@ -9808,7 +9810,7 @@
     ],
     "license": "CC-BY-SA-4.0",
     "homepage": "https://github.com/thhoney08/ZombieHighMod/tree/main/Zhigh_mod",
-    "version": "0.0.0",
+    "version": "2026.11.21-dd30843",
     "dependencies": {
       "bn": ">=0.9.1",
       "exotic_ammo": "*"
@@ -9816,7 +9818,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/thhoney08/ZombieHighMod/archive/refs/heads/main.zip",
-      "commit_sha": "bf47b1fa4b426280b3498a42a18cc02ec0ddb0bb",
+      "commit_sha": "dd308435c862ea231044ab9f9884d35c9c1fc1da",
       "extract_path": "ZombieHighMod-main/Zhigh_mod"
     },
     "tags": [],
@@ -9827,7 +9829,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-05-17T12:24:18+09:00"
+    "last_updated": "2026-11-21T04:42:36.592Z"
   },
   {
     "schema_version": "1.0",
@@ -9872,7 +9874,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/anti_fungal_gears",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -9882,7 +9884,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/anti_fungal_gears"
     },
     "categories": [
@@ -9894,7 +9896,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:42:39.766Z"
   },
   {
     "schema_version": "1.0",
@@ -9906,7 +9908,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Vorpal_Weapons",
-    "version": "0.0.0",
+    "version": "2026.11.21-c82bd17",
     "yanked": {
       "reason": "Kenan modpack entries are no longer tracked in this registry."
     },
@@ -9916,7 +9918,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip",
-      "commit_sha": "142b53ba0079e9c0aea3e8e674ad17a7dc193d07",
+      "commit_sha": "c82bd17794e8d050cbbd6fb77369ba998171c661",
       "extract_path": "Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Vorpal_Weapons"
     },
     "categories": [
@@ -9928,7 +9930,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-05-19T09:19:11+09:00"
+    "last_updated": "2026-11-21T04:43:01.505Z"
   },
   {
     "schema_version": "1.0",
@@ -9971,14 +9973,14 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/NobleJake/ProjectPackRat/tree/main/ProjectSquirrel",
-    "version": "0.0.0",
+    "version": "2026.11.21-9688ed6",
     "dependencies": {
       "bn": ">=0.9.1"
     },
     "source": {
       "type": "github_archive",
       "url": "https://github.com/NobleJake/ProjectPackRat/archive/refs/heads/main.zip",
-      "commit_sha": "a8718444676e1fc191c7a4b9470fcdcbf23bbbf5",
+      "commit_sha": "9688ed6e873a062f02f20b8d08450f50be902091",
       "extract_path": "ProjectPackRat-main/ProjectSquirrel"
     },
     "categories": [
@@ -9991,6 +9993,6 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-05-17T12:24:18+09:00"
+    "last_updated": "2026-11-21T04:43:03.084Z"
   }
 ]
